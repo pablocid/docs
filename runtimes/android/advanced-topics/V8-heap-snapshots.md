@@ -49,7 +49,7 @@ tns install android-snapshot
 
 For more information about the plugin and the distributed snapshot packages follow the related repository: https://github.com/NativeScript/android-snapshot
 
-> **NOTE**: `nativescript-dev-android-snapshot` plugin is deprecated. The recommended approach for using V8 Heap Snpashot feature in the context of NativeScript is via [`nativescript-dev-webpack` plugin](https://docs.nativescript.org/tooling/bundling-with-webpack#v8-heap-snapshot) in combination with `--snapshot` flag.
+> **NOTE**: `nativescript-dev-android-snapshot` plugin is deprecated. The recommended approach for using V8 Heap Snapshot feature in the context of NativeScript is via [`nativescript-dev-webpack` plugin](http://docs.nativescript.org/best-practices/bundling-with-webpack#v8-heap-snapshot) in combination with `--snapshot` flag.
 
 Benefits of using `nativescript-dev-webpack` plugin in combination with `--snapshot` flag:
 
